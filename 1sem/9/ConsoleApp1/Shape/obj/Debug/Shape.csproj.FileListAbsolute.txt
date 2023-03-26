@@ -1,0 +1,8 @@
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\bin\Debug\Shape.exe.config
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\bin\Debug\Shape.exe
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\bin\Debug\Shape.pdb
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\obj\Debug\Shape.csproj.AssemblyReference.cache
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\obj\Debug\Shape.csproj.SuggestedBindingRedirects.cache
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\obj\Debug\Shape.csproj.CoreCompileInputs.cache
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\obj\Debug\Shape.exe
+D:\visualS\proj\Belich\9\ConsoleApp1\Shape\obj\Debug\Shape.pdb

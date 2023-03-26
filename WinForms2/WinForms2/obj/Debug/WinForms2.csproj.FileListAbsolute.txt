@@ -1,0 +1,11 @@
+D:\visualS\proj\Belich\WinForms2\WinForms2\bin\Debug\WinForms2.exe.config
+D:\visualS\proj\Belich\WinForms2\WinForms2\bin\Debug\WinForms2.exe
+D:\visualS\proj\Belich\WinForms2\WinForms2\bin\Debug\WinForms2.pdb
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.csproj.AssemblyReference.cache
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.csproj.SuggestedBindingRedirects.cache
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.Form1.resources
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.Properties.Resources.resources
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.csproj.GenerateResource.cache
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.csproj.CoreCompileInputs.cache
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.exe
+D:\visualS\proj\Belich\WinForms2\WinForms2\obj\Debug\WinForms2.pdb

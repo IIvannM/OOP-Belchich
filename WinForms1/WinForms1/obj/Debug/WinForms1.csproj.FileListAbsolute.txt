@@ -1,0 +1,11 @@
+D:\visualS\proj\Belich\WinForms1\WinForms1\bin\Debug\WinForms1.exe.config
+D:\visualS\proj\Belich\WinForms1\WinForms1\bin\Debug\WinForms1.exe
+D:\visualS\proj\Belich\WinForms1\WinForms1\bin\Debug\WinForms1.pdb
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.AssemblyReference.cache
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.SuggestedBindingRedirects.cache
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.Form1.resources
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.Properties.Resources.resources
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.GenerateResource.cache
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.csproj.CoreCompileInputs.cache
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.exe
+D:\visualS\proj\Belich\WinForms1\WinForms1\obj\Debug\WinForms1.pdb

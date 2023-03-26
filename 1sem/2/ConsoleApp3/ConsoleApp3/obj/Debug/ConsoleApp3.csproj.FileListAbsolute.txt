@@ -1,0 +1,8 @@
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.SuggestedBindingRedirects.cache
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+D:\visualS\proj\Belich\2\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

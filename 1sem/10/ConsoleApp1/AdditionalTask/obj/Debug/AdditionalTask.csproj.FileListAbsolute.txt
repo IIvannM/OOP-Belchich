@@ -1,0 +1,8 @@
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\obj\Debug\AdditionalTask.csproj.AssemblyReference.cache
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\obj\Debug\AdditionalTask.csproj.SuggestedBindingRedirects.cache
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\obj\Debug\AdditionalTask.csproj.CoreCompileInputs.cache
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\bin\Debug\AdditionalTask.exe.config
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\bin\Debug\AdditionalTask.exe
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\bin\Debug\AdditionalTask.pdb
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\obj\Debug\AdditionalTask.exe
+D:\visualS\proj\Belich\10\ConsoleApp1\AdditionalTask\obj\Debug\AdditionalTask.pdb
