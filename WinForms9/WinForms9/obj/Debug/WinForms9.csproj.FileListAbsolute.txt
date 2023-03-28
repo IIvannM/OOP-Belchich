@@ -9,3 +9,14 @@ D:\visualS\proj\Belich\WinForms9\WinForms9\obj\Debug\WinForms9.csproj.GenerateRe
 D:\visualS\proj\Belich\WinForms9\WinForms9\obj\Debug\WinForms9.csproj.CoreCompileInputs.cache
 D:\visualS\proj\Belich\WinForms9\WinForms9\obj\Debug\WinForms9.exe
 D:\visualS\proj\Belich\WinForms9\WinForms9\obj\Debug\WinForms9.pdb
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\bin\Debug\WinForms9.exe.config
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\bin\Debug\WinForms9.exe
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\bin\Debug\WinForms9.pdb
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.csproj.AssemblyReference.cache
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.csproj.SuggestedBindingRedirects.cache
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.Form1.resources
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.Properties.Resources.resources
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.csproj.GenerateResource.cache
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.csproj.CoreCompileInputs.cache
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.exe
+D:\Projects\OOP-Belchich\WinForms9\WinForms9\obj\Debug\WinForms9.pdb
