@@ -1,0 +1,11 @@
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\bin\Debug\WinForms10.exe.config
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\bin\Debug\WinForms10.exe
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\bin\Debug\WinForms10.pdb
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.csproj.AssemblyReference.cache
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.csproj.SuggestedBindingRedirects.cache
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.Form1.resources
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.Properties.Resources.resources
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.csproj.GenerateResource.cache
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.csproj.CoreCompileInputs.cache
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.exe
+D:\Projects\OOP-Belchich\WinForms10\WinForms10\obj\Debug\WinForms10.pdb
