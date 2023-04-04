@@ -1,0 +1,42 @@
+﻿<Window x:Class="WpfApp7_11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp7_11"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="800">
+    <StackPanel>
+        <StackPanel>
+            
+            <GroupBox Header="Parameters">
+                <StackPanel Orientation="Horizontal">
+                    <Label Content="x"/>
+                    <TextBox Text="0" MinWidth="70" Name="TextX"/>
+                    <Label Content="y"/>
+                    <TextBox Text="0" MinWidth="70" Name="TextY" TextChanged="TextY_TextChanged"/>
+                    <Label Content="K"/>
+                    <ComboBox SelectedIndex="0" MinWidth="70" Name="ComboK" SelectionChanged="ComboK_SelectionChanged">
+                        <ComboBoxItem>1</ComboBoxItem>
+                        <ComboBoxItem>2</ComboBoxItem>
+                        <ComboBoxItem>3</ComboBoxItem>
+                        <ComboBoxItem>4</ComboBoxItem>
+                        <ComboBoxItem>5</ComboBoxItem>
+                    </ComboBox>
+                    <Label Content="N"/>
+                    <ComboBox SelectedIndex="0" MinWidth="70" Name="ComboN">
+                        <ComboBoxItem>1</ComboBoxItem>
+                        <ComboBoxItem>2</ComboBoxItem>
+                        <ComboBoxItem>3</ComboBoxItem>
+                        <ComboBoxItem>4</ComboBoxItem>
+                        <ComboBoxItem>5</ComboBoxItem>
+                    </ComboBox>
+                </StackPanel>
+            </GroupBox>
+        </StackPanel>
+        <Button>
+            <Button Content="Считать" Width="100" Click="Calc_click"/>
+        </Button>
+        <Image Source="/Screenshot_1.png" Height="200"/>
+    </StackPanel>
+</Window>
