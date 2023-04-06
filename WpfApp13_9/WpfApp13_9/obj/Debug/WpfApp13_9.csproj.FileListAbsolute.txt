@@ -1,0 +1,16 @@
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.csproj.AssemblyReference.cache
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.csproj.SuggestedBindingRedirects.cache
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\MainWindow.g.cs
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\App.g.cs
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9_MarkupCompile.cache
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9_MarkupCompile.lref
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\bin\Debug\WpfApp13_9.exe.config
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\bin\Debug\WpfApp13_9.exe
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\bin\Debug\WpfApp13_9.pdb
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\MainWindow.baml
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.g.resources
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.Properties.Resources.resources
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.csproj.GenerateResource.cache
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.csproj.CoreCompileInputs.cache
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.exe
+D:\Projects\OOP-Belchich\WpfApp13_9\WpfApp13_9\obj\Debug\WpfApp13_9.pdb

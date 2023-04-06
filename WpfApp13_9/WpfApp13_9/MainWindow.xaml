@@ -1,0 +1,69 @@
+﻿<Window x:Class="WpfApp13_9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp13_9"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="461*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Slider x:Name="sliderSourse" Value="18" Maximum="80" Minimum="1" 
+                TickFrequency="2" TickPlacement="Both"
+                Grid.Row="0" Margin="5,5,5,5" AutoToolTipPlacement="TopLeft" Grid.ColumnSpan="3"/>
+        <DockPanel Grid.Row="1" Grid.ColumnSpan="3">
+            <ListBox x:Name="colorsList" DockPanel.Dock="Left" Width="150" SelectedIndex="0">
+                <ListBoxItem Content="Черный" Tag="#Black" IsSelected="True" FontWeight="Bold"/>
+                <ListBoxItem Content="Красный" Tag="Red" FontWeight="Bold" Foreground="Red"/>
+                <ListBoxItem Content="Зеленый" Tag="Green" FontWeight="Bold" Foreground="#FF00BF03"/>
+                <ListBoxItem Content="Синий" Tag="Blue" FontWeight="Bold" Foreground="#FF0004F7"/>
+                <ListBoxItem Content="Розовый" Tag="Pink" FontWeight="Bold" Foreground="#FFFD00FF"/>
+                <ListBoxItem Content="Оранжевый" Tag="Orange" FontWeight="Bold" Foreground="Orange"/>
+                <ListBoxItem Content="Фиолетовый" Tag="Purple" FontWeight="Bold" Foreground="Purple"/>
+                <ListBoxItem Content="Желтый" Tag="Yellow" FontWeight="Bold" Foreground="#FFCCCC00"/>
+            </ListBox>
+            <ListBox x:Name="stylesList" SelectedIndex="0" Width="100">
+                <ListBoxItem Content="Normal" Tag="Normal"/>
+                <ListBoxItem Content="Italic" Tag="Italic" FontStyle="Italic"/>
+                <ListBoxItem Content="Bold" Tag="Bold" FontWeight="Bold"/>
+            </ListBox>
+            <TextBlock x:Name="textTarget" DockPanel.Dock="Right"
+                       TextAlignment="Center" VerticalAlignment="Center"
+                       FontSize="{Binding Value, ElementName=sliderSourse, Mode=TwoWay}"
+                       Foreground="{Binding SelectedItem.Tag, ElementName=colorsList}"
+                       FontStyle="{Binding SelectedItem.Tag, ElementName=stylesList}"
+                        FontFamily="{Binding SelectedItem.Tag, ElementName=fontFamilyCombo}"/>
+
+        </DockPanel>
+        <TextBox x:Name="textSourseText" Text="Text Example" Grid.Row="1" Grid.ColumnSpan="3" Margin="0,296,0,0" Grid.RowSpan="2"/>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Left" Margin="20,34,0,-3" Grid.RowSpan="2" Grid.ColumnSpan="3" Width="770">
+            <Button x:Name="normalButton" Content="Default Size" Margin="15" Width="100" 
+                    Click="normalButton_OnClick" Background="#FF56A0BF" Foreground="White"/>
+            <Button x:Name="maximizeButton" Content="Maximize Size" Margin="15" Width="100" 
+                    Click="maximizeButton_OnClick" Background="#FF56A0BF" Foreground="White"/>
+            <Button x:Name="minimizeButton" Content="Minimize Size" Margin="15" Width="100" 
+                    Click="minimizeButton_OnClick" Background="#FF56A0BF" Foreground="White"/>
+            <ComboBox x:Name="fontFamilyCombo" SelectedIndex="0" Height="20" Margin="150,15,15,15" Width="144">
+                <ComboBoxItem Content="Times New Roman" Tag="Times New Roman" FontFamily="Times New Roman" />
+                <ComboBoxItem Content="Arial" Tag="Arial" FontFamily="Arial" />
+                <ComboBoxItem Content="Tahoma" Tag="Tahoma" FontFamily="Tahoma" />
+                <ComboBoxItem Content="Arial Bold" Tag="Arial Bold" FontFamily="Arial Bold" />
+                <ComboBoxItem Content="Algerian" Tag="Algerian" FontFamily="Algerian"/>
+                <ComboBoxItem Content="Blackadder ITC" Tag="Blackadder ITC" FontFamily="Blackadder ITC"/>
+                <ComboBoxItem Content="Cooper Black" Tag="Cooper Black" FontFamily="Cooper Black"/>
+                <ComboBoxItem Content="Haettenschweiler" Tag="Haettenschweiler" FontFamily="Haettenschweiler"/>
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</Window>
