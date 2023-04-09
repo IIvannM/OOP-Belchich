@@ -1,0 +1,58 @@
+﻿<Window x:Class="PresentationTier.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PresentationTier"
+        mc:Ignorable="d"
+        Title="{Binding Наименование_УЗ}" Height="400" Width="800"
+        WindowStartupLocation="CenterScreen" Background="#FFDFF7FF">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="Auto"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Name="GridForTovar"
+              DataContext="{Binding ElementName=MainList, Path=SelectedItem}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"></ColumnDefinition>
+                <ColumnDefinition></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <TextBlock Margin="5" Grid.Row="0" Text="Имя: "/>
+            <TextBox Margin="5" Grid.Row="0" Grid.Column="1" Text="{Binding Имя}"/>
+            <TextBlock Margin="5" Grid.Row="1" Text="Должность: "/>
+            <TextBox Margin="5" Grid.Row="1" Grid.Column="1" Text="{Binding Должность}"/>
+            <TextBlock Margin="5" Grid.Row="2" Text="Кафедра: "/>
+            <TextBox Margin="5" Grid.Row="2" Grid.Column="1" Text="{Binding Кафедра}"/>
+            <TextBlock Margin="5" Grid.Row="3" Text="Зарплата: "/>
+            <TextBox Margin="5" Grid.Row="3" Grid.Column="1" Text="{Binding Зарплата}"/>
+        </Grid>
+        <Grid Grid.Row="1" Name="HridForCollections">
+            <ListBox Name="MainList" ItemsSource="{Binding Список_Работников,Mode=OneWay}"
+                     DisplayMemberPath="Представление" Background="Azure" Margin="10"/>
+        </Grid>
+        <Grid Grid.Row="2" Name="GridForItog">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock Margin="76,5,0,5" Text="ФОТ" Grid.Column="0" HorizontalAlignment="Left"/>
+            <TextBox Margin="110,5,100,5" Text="{Binding Path=ФОТ,Mode=OneWay}" Grid.ColumnSpan="2" />
+            <TextBlock Margin="5" Text="Средняя" Grid.Column="2" HorizontalAlignment="Left"/>
+            <TextBox Margin="56,5,64,5" Grid.Column="2" Text="{Binding Path=Средняя,Mode=OneWay}" Width="80"/>
+            
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,82 @@
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.exe.config
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\MainWindow.g.cs
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\App.g.cs
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.lref
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\MainWindow.baml
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.g.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\bin\Debug\LogicT1er.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\bin\Debug\DataTier1.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\bin\Debug\LogicT1er.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\bin\Debug\DataTier1.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.CopyComplete
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.exe.config
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.exe
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\bin\Debug\LogicT1er.dll
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\bin\Debug\DataTier1.dll
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\bin\Debug\LogicT1er.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\bin\Debug\DataTier1.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\MainWindow.g.cs
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\App.g.cs
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.cache
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.lref
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\MainWindow.baml
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.g.resources
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.CopyComplete
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.exe
+C:\Users\Student\Downloads\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.exe.config
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.exe
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\bin\Debug\PresentationTier.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\bin\Debug\LogicT1er.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\bin\Debug\DataTier1.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\bin\Debug\LogicT1er.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\bin\Debug\DataTier1.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\MainWindow.g.cs
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\App.g.cs
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.lref
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\MainWindow.baml
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.g.resources
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.csproj.CopyComplete
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.exe
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\PresentationTier\obj\Debug\PresentationTier.pdb
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\bin\Debug\PresentationTier.exe.config
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\bin\Debug\PresentationTier.exe
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\bin\Debug\PresentationTier.pdb
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\bin\Debug\LogicT1er.dll
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\bin\Debug\DataTier1.dll
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\bin\Debug\LogicT1er.pdb
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\bin\Debug\DataTier1.pdb
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.csproj.AssemblyReference.cache
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.csproj.SuggestedBindingRedirects.cache
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\MainWindow.g.cs
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\App.g.cs
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.cache
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier_MarkupCompile.lref
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\MainWindow.baml
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.g.resources
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.Properties.Resources.resources
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.csproj.GenerateResource.cache
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.csproj.CoreCompileInputs.cache
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.csproj.CopyComplete
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.exe
+D:\Projects\OOP-Belchich\WpfApp14_10\PresentationTier\obj\Debug\PresentationTier.pdb

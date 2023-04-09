@@ -1,0 +1,18 @@
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicTier.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicTier.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicTier.csproj.CopyComplete
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.pdb
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\bin\Debug\LogicT1er.dll
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\bin\Debug\LogicT1er.pdb
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\bin\Debug\DataTier1.dll
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\bin\Debug\DataTier1.pdb
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\obj\Debug\LogicTier.csproj.AssemblyReference.cache
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\obj\Debug\LogicTier.csproj.CoreCompileInputs.cache
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\obj\Debug\LogicTier.csproj.CopyComplete
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\obj\Debug\LogicT1er.dll
+D:\Projects\OOP-Belchich\WpfApp14_10\LogicT1er\obj\Debug\LogicT1er.pdb

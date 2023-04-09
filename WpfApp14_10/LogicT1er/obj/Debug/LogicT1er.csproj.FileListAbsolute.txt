@@ -1,0 +1,26 @@
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csproj.CopyComplete
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.dll
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.dll
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csproj.CopyComplete
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.dll
+C:\Users\Student\Downloads\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\LogicT1er.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\bin\Debug\DataTier1.pdb
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.csproj.CopyComplete
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.dll
+C:\Users\Ivan\Desktop\C-HOLODOV-main\Практическая 10(14)\LogicT1er\obj\Debug\LogicT1er.pdb
