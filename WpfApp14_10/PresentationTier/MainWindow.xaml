@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:PresentationTier"
         mc:Ignorable="d"
         Title="{Binding Наименование_УЗ}" Height="400" Width="800"
-        WindowStartupLocation="CenterScreen" Background="#FFDFF7FF">
+        WindowStartupLocation="CenterScreen" Background="#FFF9FDFF">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"></RowDefinition>
@@ -39,7 +39,7 @@
         </Grid>
         <Grid Grid.Row="1" Name="HridForCollections">
             <ListBox Name="MainList" ItemsSource="{Binding Список_Работников,Mode=OneWay}"
-                     DisplayMemberPath="Представление" Background="Azure" Margin="10"/>
+                     DisplayMemberPath="Представление" Background="White" Margin="10"/>
         </Grid>
         <Grid Grid.Row="2" Name="GridForItog">
             <Grid.ColumnDefinitions>
