@@ -70,7 +70,7 @@ namespace WinForms7
             }
             else
             {
-                textBox1.Text = "Номер столбца с наименьшим количеством положительных элементов: " + (colIndex + 1);
+                textBox1.Text = Convert.ToString(colIndex + 1);
             }
         }
     }
